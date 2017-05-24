@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Pennie\\Documents\\HR_APK\\HR_v1\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\Pennie\\Documents\\HR_APK\\HR_v1\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\heart_rate_window.xml",
+        "source": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\menu\\heart_rate_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pennie\\Documents\\HR_APK\\HR_v1\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_hractivity.xml",
+        "source": "C:\\Users\\Pennie\\Documents\\HR_APK\\HR_v1\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\menu\\menu_hractivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pennie\\Documents\\HR_APK\\HR_v1\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Pennie\\Documents\\HR_APK\\HR_v1\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_hractivity.xml",
+        "source": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\menu\\menu_hractivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

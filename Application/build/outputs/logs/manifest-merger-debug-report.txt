@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:16:1-67:12
+	package
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:17:5-50
+	android:versionName
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:16:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:30:5-32:35
+	android:required
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:32:9-32
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:31:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:36:22-78
+application
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:38:5-65:19
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Pennie\.android\build-cache\40c48b0c01fffa1cf76e2c98425ba383d16db2fe\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Pennie\.android\build-cache\8f61eafb4c2e96265c897f0f579f657ea8e07a59\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Pennie\.android\build-cache\812b873fea2fbab6b08276aacfddc58c7aa7a22c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Pennie\.android\build-cache\f0f8b5942f8c14d01a24b167ef2924fbb30f7792\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Pennie\.android\build-cache\3d65efb6fccf534e3204e9fac3234b304b7fc6b1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Pennie\.android\build-cache\d777e54ec6cf1f89171b0088333c214b2b4230b8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Pennie\.android\build-cache\8e67b1fd40cc8a18c60aa6824d5c29c5c7d90417\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Pennie\.android\build-cache\bf2a257141a89bb37c0e1cfd6c3974964969b14d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Pennie\.android\build-cache\a6bfacdd872b6896db85d16183f346b1d6e2b38b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Pennie\.android\build-cache\ca2d6a5f08f7137df738f3a2fca4716d2f538e15\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Pennie\.android\build-cache\211ebd7be441c47cde73064ceae474934511bb30\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pennie\.android\build-cache\18ecedc9ab66a2faec7784567560a704befad705\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:40:9-41
+	android:icon
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:41:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:42:9-50:20
+	android:label
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:43:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:48:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:51:9-59
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:51:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:53:9-55:38
+	android:enabled
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:55:13-35
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:54:13-47
+activity#com.example.android.bluetoothlegatt.hr
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:57:9-64:20
+	android:label
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:59:13-54
+	android:parentActivityName
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:60:13-64
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:58:13-31
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:61:13-63:93
+	android:value
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:63:17-90
+	android:name
+		ADDED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:62:17-63
+uses-sdk
+INJECTED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Pennie\.android\build-cache\40c48b0c01fffa1cf76e2c98425ba383d16db2fe\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Pennie\.android\build-cache\8f61eafb4c2e96265c897f0f579f657ea8e07a59\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Pennie\.android\build-cache\812b873fea2fbab6b08276aacfddc58c7aa7a22c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Pennie\.android\build-cache\f0f8b5942f8c14d01a24b167ef2924fbb30f7792\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Pennie\.android\build-cache\3d65efb6fccf534e3204e9fac3234b304b7fc6b1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Pennie\.android\build-cache\d777e54ec6cf1f89171b0088333c214b2b4230b8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Pennie\.android\build-cache\8e67b1fd40cc8a18c60aa6824d5c29c5c7d90417\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Pennie\.android\build-cache\bf2a257141a89bb37c0e1cfd6c3974964969b14d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Pennie\.android\build-cache\a6bfacdd872b6896db85d16183f346b1d6e2b38b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Pennie\.android\build-cache\ca2d6a5f08f7137df738f3a2fca4716d2f538e15\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Pennie\.android\build-cache\211ebd7be441c47cde73064ceae474934511bb30\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pennie\.android\build-cache\18ecedc9ab66a2faec7784567560a704befad705\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] C:\Users\Pennie\.android\build-cache\40c48b0c01fffa1cf76e2c98425ba383d16db2fe\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pennie\Documents\HR_APK\HR_v1\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml

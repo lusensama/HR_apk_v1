@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\79411beb06f37c0f737fa6684114b2de30e08683\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2774cc20a8d7bbbf7961be984c7a86ab08576e9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\0ea1632f9a81af2d9cadc4aa66eda59b8d2a0083\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a08f62f977a1330cee68e8aa9d93f2b7c91c853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\f7e73aa9cd7349ecd574188fc7ef4e78077eba88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea71b3c42cb75e08b09306386255dffb429a1862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\30cd9a68819eb441d767dc14e7726009428565eb\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e38cf9128784dde454493140e9473d217f8fb1e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\178b8899817bdd869393fe26bda53322930e648c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e67742080aca92bd42f50b23c72c327b7275e14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\30cd9a68819eb441d767dc14e7726009428565eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5df17bd043505e17d93e77afba8b4cff0597044a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\957dc87b66f22c43b4af51bb90e857313b7964aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_093b3b3abdcc0c11f7c9e7795f72de2c5732f27f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\c8e93e0e8632892224c0d0796e0ea6542f15d976\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85d62713b861779a0ec8316ef2cd5672d087b1c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\b9d8108e12f849cd43961f88f54a9305a879359c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0dbfb89aba4a87c1bac24a2a183739f7d65baec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\5c007cb58e97131a87e9c9ecd3e38d17d4ef10a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28ad09c9145ef7401eb5b0f96831b7b2333ef455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\b9d8108e12f849cd43961f88f54a9305a879359c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_068da490569603b8b13c077bcc3088bbddc88e3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4035e7d1051b775793932f882d7b49b5baa324b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_42124c7cfaf637aa092675f71b9b08ae54fcba39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\c4664fede51fd78a330000499f570303b23cdb3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb47ae9425da12298802a945c1a5e4440fc0f1f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\c8e93e0e8632892224c0d0796e0ea6542f15d976\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a7fe0c0984e2418f8aa4fbce03f326b20c260f17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\5c007cb58e97131a87e9c9ecd3e38d17d4ef10a1\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e718fc65527cd05a98fb597f839114cd8e0bf945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2672269fb6f66beb89354b0c3b04d868d5d9282">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c2cb0846cf979fc57bd86760d43a6ef5e3680016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\79411beb06f37c0f737fa6684114b2de30e08683\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68d360a49ec56cf7eb72a8db0697d82c296d3afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\f7e73aa9cd7349ecd574188fc7ef4e78077eba88\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e32f184e2265383e0625b0e60fb85952bcc68835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DATA Lab\.android\build-cache\a6a3d8734e5e3959145fe6b0a0c7d976a0c3a57c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\DATA Lab\Documents\HR_v0\HeartRateDataGetter_v0\android-BluetoothLeGatt-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f95eda90fdada2e92318a2c806e7174010121c65\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Pennie\\Documents\\HR_APK\\HR_v1\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Pennie\\Documents\\HR_APK\\HR_v1\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

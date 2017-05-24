@@ -1,0 +1,7 @@
+#Mon May 22 12:53:30 EDT 2017
+base.0=C\:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4035e7d1051b775793932f882d7b49b5baa324b1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c2cb0846cf979fc57bd86760d43a6ef5e3680016\\classes.dex
+base.1=C\:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c2cb0846cf979fc57bd86760d43a6ef5e3680016
+file.0=C\:\\Users\\DATA Lab\\Documents\\HR_v0\\HeartRateDataGetter_v0\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4035e7d1051b775793932f882d7b49b5baa324b1\\classes.dex
